@@ -1,1 +1,1 @@
-Projet de finance, cours de finances quantitatives 2017, Oscar Clivio et Jean-Christophe Corvisier, 2017
+Projet de finance, cours de finances quantitatives, Oscar Clivio et Jean-Christophe Corvisier, 2017
